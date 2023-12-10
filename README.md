@@ -1,0 +1,2 @@
+# diabetes_prediction
+I developed a diabetes prediction model for women using machine learning in Python on Google Colab. This project proved instrumental in deepening my understanding of the fundamental principles behind machine learning and its application in healthcare. Creating this predictive model not only honed my skills but also highlighted the potential for technology to make significant contributions in medical diagnosis and proactive healthcare.
